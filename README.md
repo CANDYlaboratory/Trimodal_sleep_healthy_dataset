@@ -11,4 +11,5 @@ Under each subject folder:
 "sleepscore_fMRIonset.mat" marks the sleep/arousal stage of the subject identified through EEG signals. The sleep scores are matched with fMRI signal onset time. 0 = wake, 1 = NREM stage 1, 2 = NREM stage 2, 3 = NREM stage 3, -1 = artifact.
 
 Please see "s200+s300_parcellations_list.mat" for the order of ROIs in each parcellated cortical fMRI/PET data. E.g., "s200_7net_lh_list" contains information of the ROI order of "S_s200_7net_lh.mat" files. 
+
 Please see "FreeSurferColorLUT.txt" for the order of ROIs in "Saseg.mat" files. 
