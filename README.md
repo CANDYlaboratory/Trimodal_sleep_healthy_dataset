@@ -1,5 +1,7 @@
 # Trimodal_sleep_healthy_dataset
 
+This dataset is a subset of the subjects reported in the "Simultaneous EEG-PET-MRI identifies temporally coupled and spatially structured brain dynamics across wakefulness and NREM sleep" paper.
+
 Under each subject folder: 
 
 "/func" contains the parcellated cortical fMRI data in Schaefer's 200 and 300 parcellations, seperated by hemispheres. "Saseg.mat" containes the parcellated subcortical fMRI data in freesurfer's subcortical segmentation. The shared fMRI data went through a standard preprocessing pipeline with motion correction, slice timing correction, and distortion correction. 
